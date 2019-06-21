@@ -12,8 +12,9 @@
         android:scaleType="fitXY"
         app:banner_indicatorGravity="bottom|right"
         app:banner_placeholderDrawable="@drawable/placeholder_banner"
-        app:banner_tipTextSize="@dimen/textSize_titleSmall"
+        app:banner_pointAutoPlayInterval="3000"
         app:banner_tipTextColor="@color/color_title_bg"
-        app:banner_transitionEffect="alpha"/>
+        app:banner_tipTextSize="@dimen/textSize_titleSmall"
+        app:banner_transitionEffect="alpha" />
 
 </LinearLayout>

@@ -11,11 +11,13 @@
 
 **[English Document](https://github.com/git-xuhao/KotlinMvp/blob/master/README-en.md)**
 
-![这里写图片描述](http://oyp2zrwnm.bkt.clouddn.com/ic_launcher.png)
+![这里写图片描述](https://github-1253441343.cos.ap-chengdu.myqcloud.com/ic_launcher.png)
 
-GitHub地址：[https://github.com/git-xuhao/KotlinMvp](https://github.com/git-xuhao/KotlinMvp)
+- **GitHub地址：** [https://github.com/git-xuhao/KotlinMvp](https://github.com/git-xuhao/KotlinMvp)
 
-（开源不易，如果喜欢的话希望给个 Star 或者 Fork，谢谢！）
+- **(附上 Java 版本的MVP基础框架)** [https://github.com/git-xuhao/Android-MVP-Architecture](https://github.com/git-xuhao/Android-MVP-Architecture)
+
+**（开源不易，如果喜欢的话希望给个小星星，谢谢~）**
 
 《KotlinMvp》 是仿着“开眼Eyepetizer”之前版本并加上自己的想法，开发的一款的短视频小应用，每日为你推荐精选视频，让你大开眼界。本项目采用 Kotlin 语言编写，结合 MVP+RxJava2+Retrofit2+Glide等的架构设计，学习 Kotlin 利用空余时间开发的一款小项目，代码结构清晰有详细注释，如有任何疑问和建议请提 Issue或联系[![](https://img.shields.io/badge/Gmail:-igeekho@gmail.com-blue.svg)]()
 
@@ -47,7 +49,7 @@ Kotlin 团队为 Android 开发提供了一套超越标准语言功能的工具�
 
 **（下方二维码，每日上限100次，如达到上限，还是 clone 源码吧！✧(≖ ◡ ≖✿)）**
 
-<img src="http://oyp2zrwnm.bkt.clouddn.com/QR-code-kotlin-mvp.png" width = "250" height = "250" alt="图片名称" align=center />
+<img src="https://github-1253441343.cos.ap-chengdu.myqcloud.com/WX20190307-154811%402x.png" width = "250" height = "250" alt="图片名称" align=center />
 
 
 
@@ -79,6 +81,12 @@ Kotlin 团队为 Android 开发提供了一套超越标准语言功能的工具�
 
 **[最新记录请点击查看](https://github.com/git-xuhao/KotlinMvp/releases)**
 
+**v1.3.0**
+
+ - Kotlin版本升级，优化 kotlin 用法；
+ - 修复分类详情老接口不能使用问题(原 api 有改动）;
+ - 优化代码；
+
 **v1.1**
 
  - 去除无用代码，添加观看记录功能。
@@ -97,7 +105,6 @@ Kotlin 团队为 Android 开发提供了一套超越标准语言功能的工具�
 ## Thanks
 
 - 感谢所有优秀的开源项目
-- [Eyepetizer](https://github.com/kaikaixue/Eyepetizer) ：最初是看了这个项目才开始做的，学了不少东西，写出了我自己的代码风格
 
 ## 声明
 **项目中的 API 均来自开眼视频，纯属学习交流使用，不得用于商业用途！**
